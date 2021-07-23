@@ -8,7 +8,7 @@
 <p align="center">  
 	<br>
 	<a href="https://auth.geeksforgeeks.org/user/satyarthiabhay/profile">
-        <img src="https://svgshare.com/i/ZTU.svg"> 
+        <img height="100" src="https://svgshare.com/i/ZTU.svg"> 
     </a>
     <br>
 </p>
